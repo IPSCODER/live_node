@@ -26,7 +26,7 @@ app.use(session({
 
 
 app.use("/",(req,res)=>{
-    res.send({message:"succufuly running server two"})   
+    res.send({message:"succufuly running server two just"})   
 })
 
 
